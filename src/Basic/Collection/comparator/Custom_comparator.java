@@ -23,7 +23,6 @@ public class Custom_comparator {
         System.out.println(al);
 
 //        Method 2
-
         Collections.sort(al, new Comparator<Integer>() {
             @Override
             public int compare(Integer n1, Integer n2) {
