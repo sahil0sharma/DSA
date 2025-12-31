@@ -7,8 +7,8 @@ public class HA1Optimized {
     public int countHahing(int[] nums ){
 
         int n = nums.length;
-        int maxEle = 0;
-        int maxFreq = 0;
+        int maxEle = Integer.MIN_VALUE;
+        int maxFreq = Integer.MIN_VALUE;
 
         Map<Integer, Integer> list = new HashMap<>();
 

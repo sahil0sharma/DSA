@@ -34,7 +34,7 @@ public class HA1Brute2 {
     public static void main(String[] args) {
 
         HA1Brute2 h2 = new HA1Brute2();
-        int[] arr = {1, 2, 3 ,4 ,3 , 2,1,1,1};
+        int[] arr = {1, 2, 3, 2, 1};
 
         System.out.println(h2.countHashing(arr));
 
