@@ -1,4 +1,4 @@
-package Basic.Basic_concept.Math;
+package Basic.Basic_concept.Math1;
 // Return the Largest Digit in a Number
 
 public class A2 {
