@@ -1,4 +1,4 @@
-package Basic.Basic_concept.Math.Arrays;
+package Basic.Basic_concept.Arrays;
 
 public class Count_odd_in_array {
     public int countOdd(int[] arr, int n) {
