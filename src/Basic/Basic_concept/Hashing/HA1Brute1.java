@@ -1,4 +1,4 @@
-package Basic.Basic_concept.Math.Hashing;
+package Basic.Basic_concept.Hashing;
 
 public class HA1Brute1 {
 

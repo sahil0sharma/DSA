@@ -1,4 +1,4 @@
-package Basic.Basic_concept.Math;
+package Basic.Basic_concept.Math1;
 
 //Count of Prime Numbers till N
 public class G2 {

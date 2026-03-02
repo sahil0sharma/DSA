@@ -1,4 +1,4 @@
-package Basic.Basic_concept.Math;
+package Basic.Basic_concept.Math1;
 // for check prime no
 // a no. only divisible by itself no other
 public class G1 {

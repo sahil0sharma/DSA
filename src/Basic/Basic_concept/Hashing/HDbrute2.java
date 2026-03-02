@@ -1,7 +1,5 @@
 
-package Basic.Basic_concept.Math.Hashing;
-
-import javax.swing.plaf.IconUIResource;
+package Basic.Basic_concept.Hashing;
 
 public class HDbrute2 {
 

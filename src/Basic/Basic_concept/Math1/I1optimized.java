@@ -1,4 +1,4 @@
-package Basic.Basic_concept.Math;
+package Basic.Basic_concept.Math1;
 
 class I1optimized{
     // Function to find the GCD of two numbers

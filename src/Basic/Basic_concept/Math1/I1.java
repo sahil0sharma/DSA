@@ -1,4 +1,4 @@
-package Basic.Basic_concept.Math;
+package Basic.Basic_concept.Math1;
 // LCM smallest no. that both no. can reach
 
 public class I1 {

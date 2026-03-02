@@ -1,4 +1,4 @@
-package Basic.Basic_concept.Math.Hashing;
+package Basic.Basic_concept.Hashing;
 
 import java.util.*;
 //Second Highest Occurring Element

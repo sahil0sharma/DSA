@@ -1,4 +1,4 @@
-package Basic.Basic_concept.Math;
+package Basic.Basic_concept.Math1;
 // Count number of odd digits in a number
 public class B1 {
 

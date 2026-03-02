@@ -1,4 +1,4 @@
-package Basic.Basic_concept.Math;
+package Basic.Basic_concept.Math1;
 //Divisors of a Number
 //You are given an integer n. You need to find all the divisors of n. Return all the divisors of n as an array or list in a sorted order.
 

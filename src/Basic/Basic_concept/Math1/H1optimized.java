@@ -1,4 +1,4 @@
-package Basic.Basic_concept.Math;
+package Basic.Basic_concept.Math1;
 //Euclidean Algorithm: if a > b then ( a - b , b) the GDC is b
 
 public class H1optimized {
