@@ -1,4 +1,4 @@
-package Basic.Basic_concept.Math.Arrays;
+package Basic.Basic_concept.Arrays;
 
 class solution{
     public int arrSum(int[] nums) {
