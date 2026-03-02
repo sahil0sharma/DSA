@@ -1,5 +1,5 @@
-package Basic.Basic_concept.Math.Strings;
-import java.util.*;
+package Basic.Basic_concept.Strings;
+
 public class Rotate_string {                  // TC -> O(N^2) | SC -> O(N)
 
     boolean rotate1(String s, String goal) {

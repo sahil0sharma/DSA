@@ -1,7 +1,6 @@
-package Basic.Basic_concept.Math.Strings;
+package Basic.Basic_concept.Strings;
 
 import java.util.Arrays;
-import java.util.List;
 
 public class Reverse_string_brute {
 

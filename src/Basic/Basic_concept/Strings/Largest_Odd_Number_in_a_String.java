@@ -1,4 +1,4 @@
-package Basic.Basic_concept.Math.Strings;
+package Basic.Basic_concept.Strings;
 
 public class Largest_Odd_Number_in_a_String {
 

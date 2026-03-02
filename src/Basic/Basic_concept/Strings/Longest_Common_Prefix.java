@@ -1,4 +1,4 @@
-package Basic.Basic_concept.Math.Strings;
+package Basic.Basic_concept.Strings;
 
 public class Longest_Common_Prefix {
 
