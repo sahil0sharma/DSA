@@ -1,4 +1,4 @@
-package Basic.Basic_concept.Math.Arrays;
+package Basic.Basic_concept.Arrays;
 
 public class Sub_array {
 
