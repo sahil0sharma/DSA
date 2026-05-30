@@ -1,5 +1,5 @@
 package Basic.Basic_concept.Math1;
-// Armstrong no.
+// Perfectno no.
 // ex 153 so this no. has -> 3 digit | so, 1cube + 5cube + 3cube = after cubing and adding is 153 same as original no.
 
 public class E1 {
