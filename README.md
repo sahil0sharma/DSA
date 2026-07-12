@@ -15,6 +15,7 @@ DSA solving
 | [0118-pascals-triangle](https://github.com/sahil0sharma/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sahil0sharma/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/sahil0sharma/DSA/tree/master/0152-maximum-product-subarray) |
+| [0283-move-zeroes](https://github.com/sahil0sharma/DSA/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,4 +30,8 @@ DSA solving
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahil0sharma/DSA/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/sahil0sharma/DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
