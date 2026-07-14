@@ -1,13 +1,14 @@
 class Solution {
     public int missingNumber(int[] nums) {
-         int n = nums.length;
+         int xor1 = 0, xor2 = 0;
 
-        int nsum = (n*(n+1))/2;
-        int sum = 0;
-        for(int i = 0; i < n; i++){
-            sum = sum + nums[i];
+        // Calculate XOR of all array elements
+        for (int i = 0; i < nums.length; i++) {
+            xor1 = xor1 ^ (i + 1); // XOR up to [1...N]
+            xor2 = xor2 ^ nums[i]; // XOR of array elements
         }
 
-        return nsum - sum;
-    }
+        // XOR of xor1 and xor2 gives missing number
+        return (xor1 ^ xor2);
+}
 }
