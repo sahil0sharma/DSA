@@ -7,6 +7,7 @@ DSA solving
 | ------- |
 | [0009-palindrome-number](https://github.com/sahil0sharma/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sahil0sharma/DSA/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/sahil0sharma/DSA/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -15,6 +16,7 @@ DSA solving
 | [0118-pascals-triangle](https://github.com/sahil0sharma/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sahil0sharma/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/sahil0sharma/DSA/tree/master/0152-maximum-product-subarray) |
+| [0268-missing-number](https://github.com/sahil0sharma/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sahil0sharma/DSA/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
@@ -30,8 +32,21 @@ DSA solving
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahil0sharma/DSA/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/sahil0sharma/DSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/sahil0sharma/DSA/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sahil0sharma/DSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sahil0sharma/DSA/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sahil0sharma/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
