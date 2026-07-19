@@ -34,6 +34,7 @@ DSA solving
 | ------- |
 | [0001-two-sum](https://github.com/sahil0sharma/DSA/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/sahil0sharma/DSA/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/sahil0sharma/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,9 +55,14 @@ DSA solving
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/sahil0sharma/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahil0sharma/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/sahil0sharma/DSA/tree/master/1004-max-consecutive-ones-iii) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/sahil0sharma/DSA/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
