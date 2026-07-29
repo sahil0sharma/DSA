@@ -12,6 +12,7 @@ DSA solving
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahil0sharma/DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/sahil0sharma/DSA/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/sahil0sharma/DSA/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/sahil0sharma/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sahil0sharma/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -42,6 +43,7 @@ DSA solving
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sahil0sharma/DSA/tree/master/0015-3sum) |
 | [0283-move-zeroes](https://github.com/sahil0sharma/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sahil0sharma/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
@@ -57,6 +59,7 @@ DSA solving
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sahil0sharma/DSA/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/sahil0sharma/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sahil0sharma/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahil0sharma/DSA/tree/master/0349-intersection-of-two-arrays) |
