@@ -4,8 +4,9 @@ class Solution {
         int n = nums.length;
         Arrays.sort(nums);
 
-        List<List<Integer>> list = new ArrayList<>();
 
+        List<List<Integer>> list = new ArrayList<>();
+        if (nums == null || nums.length < 4) return list;
         for(int i = 0; i < n; i++){
             if(i > 0 && nums[i] == nums[i - 1]) continue;
 
@@ -23,14 +24,7 @@ class Solution {
                     } else if(sum < target){
                         k++;
                     } else {
-                        List<Integer> temp = new ArrayList<>();
-                        temp.add(nums[i]);
-                        temp.add(nums[j]);
-                        temp.add(nums[k]);
-                        temp.add(nums[l]);
-
-                        list.add(temp);
-
+                        list.add(Arrays.asList(nums[i], nums[j], nums[k], nums[l]));
                         k++;
                         l--;
 
