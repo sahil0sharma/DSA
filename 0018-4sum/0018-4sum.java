@@ -6,7 +6,7 @@ class Solution {
 
 
         List<List<Integer>> list = new ArrayList<>();
-        if (nums == null || nums.length < 4) return list;
+        // if (nums == null || nums.length < 4) return list;
         for(int i = 0; i < n; i++){
             if(i > 0 && nums[i] == nums[i - 1]) continue;
 
