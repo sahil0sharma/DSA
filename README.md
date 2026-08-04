@@ -14,6 +14,7 @@ DSA solving
 | [0001-two-sum](https://github.com/sahil0sharma/DSA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sahil0sharma/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sahil0sharma/DSA/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/sahil0sharma/DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/sahil0sharma/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sahil0sharma/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sahil0sharma/DSA/tree/master/0075-sort-colors) |
@@ -49,6 +50,7 @@ DSA solving
 | ------- |
 | [0015-3sum](https://github.com/sahil0sharma/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sahil0sharma/DSA/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/sahil0sharma/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sahil0sharma/DSA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/sahil0sharma/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sahil0sharma/DSA/tree/master/0349-intersection-of-two-arrays) |
