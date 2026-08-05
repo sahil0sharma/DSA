@@ -8,6 +8,7 @@ DSA solving
 | [0009-palindrome-number](https://github.com/sahil0sharma/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sahil0sharma/DSA/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/sahil0sharma/DSA/tree/master/0268-missing-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/sahil0sharma/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Array
 |  |
 | ------- |
@@ -26,6 +27,7 @@ DSA solving
 | [0283-move-zeroes](https://github.com/sahil0sharma/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sahil0sharma/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahil0sharma/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [2965-find-missing-and-repeated-values](https://github.com/sahil0sharma/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,6 +39,7 @@ DSA solving
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sahil0sharma/DSA/tree/master/0048-rotate-image) |
+| [2965-find-missing-and-repeated-values](https://github.com/sahil0sharma/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +48,7 @@ DSA solving
 | [0268-missing-number](https://github.com/sahil0sharma/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahil0sharma/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahil0sharma/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [2965-find-missing-and-repeated-values](https://github.com/sahil0sharma/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
