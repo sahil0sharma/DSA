@@ -7,6 +7,7 @@ DSA solving
 | ------- |
 | [0009-palindrome-number](https://github.com/sahil0sharma/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sahil0sharma/DSA/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/sahil0sharma/DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/sahil0sharma/DSA/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/sahil0sharma/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Array
@@ -20,6 +21,7 @@ DSA solving
 | [0031-next-permutation](https://github.com/sahil0sharma/DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/sahil0sharma/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sahil0sharma/DSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/sahil0sharma/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sahil0sharma/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/sahil0sharma/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sahil0sharma/DSA/tree/master/0119-pascals-triangle-ii) |
