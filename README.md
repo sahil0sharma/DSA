@@ -23,6 +23,7 @@ DSA solving
 | [0053-maximum-subarray](https://github.com/sahil0sharma/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sahil0sharma/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sahil0sharma/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sahil0sharma/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sahil0sharma/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sahil0sharma/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/sahil0sharma/DSA/tree/master/0152-maximum-product-subarray) |
@@ -62,6 +63,7 @@ DSA solving
 | [0027-remove-element](https://github.com/sahil0sharma/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sahil0sharma/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sahil0sharma/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sahil0sharma/DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/sahil0sharma/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sahil0sharma/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
@@ -80,6 +82,7 @@ DSA solving
 | [0015-3sum](https://github.com/sahil0sharma/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sahil0sharma/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/sahil0sharma/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/sahil0sharma/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sahil0sharma/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sahil0sharma/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahil0sharma/DSA/tree/master/0349-intersection-of-two-arrays) |
