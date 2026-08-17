@@ -1,7 +1,7 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
 
-            int i = 0,j = 0,k = 0;
+     int i = 0,j = 0,k = 0;
 
             int[] arr = new int[m+n];
 
@@ -29,7 +29,6 @@ class Solution {
         nums1[x] = arr[x];
     }
         System.out.println(Arrays.toString(nums1));
-        
     }
 }
         
