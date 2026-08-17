@@ -16,6 +16,7 @@ DSA solving
 | [0015-3sum](https://github.com/sahil0sharma/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sahil0sharma/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahil0sharma/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sahil0sharma/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sahil0sharma/DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/sahil0sharma/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sahil0sharma/DSA/tree/master/0053-maximum-subarray) |
@@ -56,6 +57,7 @@ DSA solving
 | [0015-3sum](https://github.com/sahil0sharma/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sahil0sharma/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahil0sharma/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sahil0sharma/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sahil0sharma/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sahil0sharma/DSA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/sahil0sharma/DSA/tree/master/0283-move-zeroes) |
