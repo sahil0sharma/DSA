@@ -59,6 +59,7 @@ DSA solving
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sahil0sharma/DSA/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/sahil0sharma/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/sahil0sharma/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sahil0sharma/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sahil0sharma/DSA/tree/master/0268-missing-number) |
@@ -77,6 +78,7 @@ DSA solving
 | [0075-sort-colors](https://github.com/sahil0sharma/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sahil0sharma/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sahil0sharma/DSA/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/sahil0sharma/DSA/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/sahil0sharma/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sahil0sharma/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/sahil0sharma/DSA/tree/master/0881-boats-to-save-people) |
@@ -149,4 +151,12 @@ DSA solving
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/sahil0sharma/DSA/tree/master/0986-interval-list-intersections) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sahil0sharma/DSA/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sahil0sharma/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
