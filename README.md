@@ -81,6 +81,7 @@ DSA solving
 | [0141-linked-list-cycle](https://github.com/sahil0sharma/DSA/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/sahil0sharma/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sahil0sharma/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/sahil0sharma/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/sahil0sharma/DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahil0sharma/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/sahil0sharma/DSA/tree/master/0986-interval-list-intersections) |
@@ -155,6 +156,7 @@ DSA solving
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sahil0sharma/DSA/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/sahil0sharma/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
