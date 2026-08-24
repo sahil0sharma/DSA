@@ -8,6 +8,7 @@ DSA solving
 | [0009-palindrome-number](https://github.com/sahil0sharma/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sahil0sharma/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sahil0sharma/DSA/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/sahil0sharma/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sahil0sharma/DSA/tree/master/0268-missing-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/sahil0sharma/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Array
@@ -62,6 +63,7 @@ DSA solving
 | [0141-linked-list-cycle](https://github.com/sahil0sharma/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sahil0sharma/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/sahil0sharma/DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/sahil0sharma/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/sahil0sharma/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sahil0sharma/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahil0sharma/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -81,6 +83,7 @@ DSA solving
 | [0125-valid-palindrome](https://github.com/sahil0sharma/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sahil0sharma/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sahil0sharma/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/sahil0sharma/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sahil0sharma/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sahil0sharma/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/sahil0sharma/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -165,4 +168,5 @@ DSA solving
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sahil0sharma/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sahil0sharma/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/sahil0sharma/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
