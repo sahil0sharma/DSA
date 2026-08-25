@@ -36,6 +36,7 @@ DSA solving
 | [0268-missing-number](https://github.com/sahil0sharma/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sahil0sharma/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sahil0sharma/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/sahil0sharma/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/sahil0sharma/DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahil0sharma/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/sahil0sharma/DSA/tree/master/0986-interval-list-intersections) |
@@ -125,6 +126,7 @@ DSA solving
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/sahil0sharma/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/sahil0sharma/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahil0sharma/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
