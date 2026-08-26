@@ -32,6 +32,7 @@ DSA solving
 | [0152-maximum-product-subarray](https://github.com/sahil0sharma/DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahil0sharma/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sahil0sharma/DSA/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/sahil0sharma/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sahil0sharma/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sahil0sharma/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sahil0sharma/DSA/tree/master/0283-move-zeroes) |
@@ -98,6 +99,7 @@ DSA solving
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahil0sharma/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/sahil0sharma/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sahil0sharma/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahil0sharma/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahil0sharma/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -125,12 +127,14 @@ DSA solving
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sahil0sharma/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahil0sharma/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/sahil0sharma/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahil0sharma/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sahil0sharma/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahil0sharma/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
