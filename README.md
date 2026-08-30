@@ -46,6 +46,7 @@ DSA solving
 | [1200-minimum-absolute-difference](https://github.com/sahil0sharma/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sahil0sharma/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sahil0sharma/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sahil0sharma/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/sahil0sharma/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sahil0sharma/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Dynamic Programming
@@ -77,6 +78,7 @@ DSA solving
 | [0424-longest-repeating-character-replacement](https://github.com/sahil0sharma/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sahil0sharma/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/sahil0sharma/DSA/tree/master/0904-fruit-into-baskets) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sahil0sharma/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/sahil0sharma/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -142,6 +144,7 @@ DSA solving
 | [0904-fruit-into-baskets](https://github.com/sahil0sharma/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahil0sharma/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sahil0sharma/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sahil0sharma/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
