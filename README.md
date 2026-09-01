@@ -46,6 +46,7 @@ DSA solving
 | [1004-max-consecutive-ones-iii](https://github.com/sahil0sharma/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/sahil0sharma/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sahil0sharma/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1480-running-sum-of-1d-array](https://github.com/sahil0sharma/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sahil0sharma/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sahil0sharma/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/sahil0sharma/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -155,6 +156,7 @@ DSA solving
 | [0209-minimum-size-subarray-sum](https://github.com/sahil0sharma/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/sahil0sharma/DSA/tree/master/0303-range-sum-query-immutable) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahil0sharma/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/sahil0sharma/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## String
 |  |
 | ------- |
