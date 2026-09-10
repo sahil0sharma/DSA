@@ -51,6 +51,7 @@ DSA solving
 | [1004-max-consecutive-ones-iii](https://github.com/sahil0sharma/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/sahil0sharma/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sahil0sharma/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1310-xor-queries-of-a-subarray](https://github.com/sahil0sharma/DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sahil0sharma/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/sahil0sharma/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sahil0sharma/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -131,6 +132,7 @@ DSA solving
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sahil0sharma/DSA/tree/master/0268-missing-number) |
+| [1310-xor-queries-of-a-subarray](https://github.com/sahil0sharma/DSA/tree/master/1310-xor-queries-of-a-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -174,6 +176,7 @@ DSA solving
 | [0974-subarray-sums-divisible-by-k](https://github.com/sahil0sharma/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahil0sharma/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sahil0sharma/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1310-xor-queries-of-a-subarray](https://github.com/sahil0sharma/DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/sahil0sharma/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/sahil0sharma/DSA/tree/master/1991-find-the-middle-index-in-array) |
 ## String
