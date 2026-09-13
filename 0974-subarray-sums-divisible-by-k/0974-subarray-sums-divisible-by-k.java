@@ -17,9 +17,9 @@ class Solution {
                 rem += k;
             }
 
-            if(map.containsKey(rem)){
+
                 count += map.getOrDefault(rem, 0);
-            }
+            
 
             map.put(rem, map.getOrDefault(rem, 0) + 1);
         }
