@@ -61,6 +61,7 @@ DSA solving
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sahil0sharma/DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/sahil0sharma/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sahil0sharma/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/sahil0sharma/DSA/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sahil0sharma/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/sahil0sharma/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sahil0sharma/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -75,6 +76,7 @@ DSA solving
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahil0sharma/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sahil0sharma/DSA/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sahil0sharma/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/sahil0sharma/DSA/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sahil0sharma/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Matrix
 |  |
@@ -218,6 +220,7 @@ DSA solving
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/sahil0sharma/DSA/tree/master/0881-boats-to-save-people) |
+| [1567-maximum-length-of-subarray-with-positive-product](https://github.com/sahil0sharma/DSA/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 ## Timsort
 |  |
 | ------- |
