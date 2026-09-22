@@ -23,6 +23,7 @@ DSA solving
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahil0sharma/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sahil0sharma/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sahil0sharma/DSA/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/sahil0sharma/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/sahil0sharma/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sahil0sharma/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/sahil0sharma/DSA/tree/master/0066-plus-one) |
@@ -137,6 +138,7 @@ DSA solving
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sahil0sharma/DSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahil0sharma/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sahil0sharma/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sahil0sharma/DSA/tree/master/0268-missing-number) |
