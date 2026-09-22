@@ -45,6 +45,7 @@ DSA solving
 | [0525-contiguous-array](https://github.com/sahil0sharma/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sahil0sharma/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/sahil0sharma/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/sahil0sharma/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sahil0sharma/DSA/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/sahil0sharma/DSA/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/sahil0sharma/DSA/tree/master/0904-fruit-into-baskets) |
@@ -140,6 +141,7 @@ DSA solving
 | [0209-minimum-size-subarray-sum](https://github.com/sahil0sharma/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sahil0sharma/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahil0sharma/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/sahil0sharma/DSA/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahil0sharma/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sahil0sharma/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Bit Manipulation
