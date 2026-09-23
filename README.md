@@ -65,6 +65,7 @@ DSA solving
 | [1480-running-sum-of-1d-array](https://github.com/sahil0sharma/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sahil0sharma/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/sahil0sharma/DSA/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
+| [1672-richest-customer-wealth](https://github.com/sahil0sharma/DSA/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sahil0sharma/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1991-find-the-middle-index-in-array](https://github.com/sahil0sharma/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sahil0sharma/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -86,6 +87,7 @@ DSA solving
 | ------- |
 | [0048-rotate-image](https://github.com/sahil0sharma/DSA/tree/master/0048-rotate-image) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sahil0sharma/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [1672-richest-customer-wealth](https://github.com/sahil0sharma/DSA/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/sahil0sharma/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
