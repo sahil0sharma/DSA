@@ -61,6 +61,7 @@ DSA solving
 | [0977-squares-of-a-sorted-array](https://github.com/sahil0sharma/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/sahil0sharma/DSA/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahil0sharma/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahil0sharma/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/sahil0sharma/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sahil0sharma/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sahil0sharma/DSA/tree/master/1310-xor-queries-of-a-subarray) |
@@ -157,6 +158,7 @@ DSA solving
 | [0704-binary-search](https://github.com/sahil0sharma/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sahil0sharma/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/sahil0sharma/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahil0sharma/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sahil0sharma/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Bit Manipulation
 |  |
