@@ -8,6 +8,7 @@ DSA solving
 | [0009-palindrome-number](https://github.com/sahil0sharma/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sahil0sharma/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sahil0sharma/DSA/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/sahil0sharma/DSA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/sahil0sharma/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sahil0sharma/DSA/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sahil0sharma/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -151,6 +152,7 @@ DSA solving
 | [0033-search-in-rotated-sorted-array](https://github.com/sahil0sharma/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sahil0sharma/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sahil0sharma/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/sahil0sharma/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahil0sharma/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahil0sharma/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sahil0sharma/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -278,4 +280,8 @@ DSA solving
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/sahil0sharma/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sahil0sharma/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
