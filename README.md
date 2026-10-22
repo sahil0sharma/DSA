@@ -89,6 +89,7 @@ DSA solving
 | [0119-pascals-triangle-ii](https://github.com/sahil0sharma/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahil0sharma/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sahil0sharma/DSA/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/sahil0sharma/DSA/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sahil0sharma/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/sahil0sharma/DSA/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sahil0sharma/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -142,6 +143,7 @@ DSA solving
 | [0202-happy-number](https://github.com/sahil0sharma/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sahil0sharma/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sahil0sharma/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/sahil0sharma/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/sahil0sharma/DSA/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/sahil0sharma/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/sahil0sharma/DSA/tree/master/0881-boats-to-save-people) |
@@ -229,6 +231,7 @@ DSA solving
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahil0sharma/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sahil0sharma/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sahil0sharma/DSA/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/sahil0sharma/DSA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahil0sharma/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sahil0sharma/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sahil0sharma/DSA/tree/master/0567-permutation-in-string) |
