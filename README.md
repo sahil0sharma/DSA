@@ -145,6 +145,7 @@ DSA solving
 | [0283-move-zeroes](https://github.com/sahil0sharma/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sahil0sharma/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/sahil0sharma/DSA/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/sahil0sharma/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/sahil0sharma/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/sahil0sharma/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/sahil0sharma/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -237,6 +238,7 @@ DSA solving
 | [0392-is-subsequence](https://github.com/sahil0sharma/DSA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahil0sharma/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sahil0sharma/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/sahil0sharma/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/sahil0sharma/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/sahil0sharma/DSA/tree/master/0680-valid-palindrome-ii) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sahil0sharma/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
