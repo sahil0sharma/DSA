@@ -133,6 +133,7 @@ DSA solving
 | [0018-4sum](https://github.com/sahil0sharma/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahil0sharma/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sahil0sharma/DSA/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahil0sharma/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/sahil0sharma/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sahil0sharma/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sahil0sharma/DSA/tree/master/0088-merge-sorted-array) |
@@ -232,6 +233,7 @@ DSA solving
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahil0sharma/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahil0sharma/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/sahil0sharma/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sahil0sharma/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sahil0sharma/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -299,4 +301,20 @@ DSA solving
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sahil0sharma/DSA/tree/master/0069-sqrtx) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahil0sharma/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahil0sharma/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahil0sharma/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahil0sharma/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
