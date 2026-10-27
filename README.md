@@ -242,6 +242,7 @@ DSA solving
 | [0424-longest-repeating-character-replacement](https://github.com/sahil0sharma/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sahil0sharma/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/sahil0sharma/DSA/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/sahil0sharma/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/sahil0sharma/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/sahil0sharma/DSA/tree/master/0680-valid-palindrome-ii) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sahil0sharma/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -307,16 +308,19 @@ DSA solving
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahil0sharma/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/sahil0sharma/DSA/tree/master/0459-repeated-substring-pattern) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/sahil0sharma/DSA/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahil0sharma/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/sahil0sharma/DSA/tree/master/0459-repeated-substring-pattern) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/sahil0sharma/DSA/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahil0sharma/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/sahil0sharma/DSA/tree/master/0459-repeated-substring-pattern) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/sahil0sharma/DSA/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Boyer–Moore String-Search Algorithm
 |  |
