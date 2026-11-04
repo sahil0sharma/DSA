@@ -238,6 +238,7 @@ DSA solving
 | [0076-minimum-window-substring](https://github.com/sahil0sharma/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sahil0sharma/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sahil0sharma/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/sahil0sharma/DSA/tree/master/0214-shortest-palindrome) |
 | [0392-is-subsequence](https://github.com/sahil0sharma/DSA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahil0sharma/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sahil0sharma/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -308,18 +309,21 @@ DSA solving
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahil0sharma/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/sahil0sharma/DSA/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/sahil0sharma/DSA/tree/master/0459-repeated-substring-pattern) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/sahil0sharma/DSA/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahil0sharma/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/sahil0sharma/DSA/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/sahil0sharma/DSA/tree/master/0459-repeated-substring-pattern) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/sahil0sharma/DSA/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sahil0sharma/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/sahil0sharma/DSA/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/sahil0sharma/DSA/tree/master/0459-repeated-substring-pattern) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/sahil0sharma/DSA/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Boyer–Moore String-Search Algorithm
@@ -329,6 +333,7 @@ DSA solving
 ## Rolling Hash
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/sahil0sharma/DSA/tree/master/0214-shortest-palindrome) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/sahil0sharma/DSA/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Suffix Array
 |  |
@@ -337,5 +342,10 @@ DSA solving
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/sahil0sharma/DSA/tree/master/0214-shortest-palindrome) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/sahil0sharma/DSA/tree/master/2223-sum-of-scores-of-built-strings) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/sahil0sharma/DSA/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
