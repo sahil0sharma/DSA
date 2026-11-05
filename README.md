@@ -113,6 +113,7 @@ DSA solving
 | [0217-contains-duplicate](https://github.com/sahil0sharma/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sahil0sharma/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sahil0sharma/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/sahil0sharma/DSA/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahil0sharma/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sahil0sharma/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/sahil0sharma/DSA/tree/master/0525-contiguous-array) |
@@ -239,6 +240,7 @@ DSA solving
 | [0125-valid-palindrome](https://github.com/sahil0sharma/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sahil0sharma/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/sahil0sharma/DSA/tree/master/0214-shortest-palindrome) |
+| [0383-ransom-note](https://github.com/sahil0sharma/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/sahil0sharma/DSA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahil0sharma/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sahil0sharma/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -258,6 +260,7 @@ DSA solving
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sahil0sharma/DSA/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/sahil0sharma/DSA/tree/master/0383-ransom-note) |
 ## Greedy
 |  |
 | ------- |
