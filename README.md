@@ -36,6 +36,7 @@ DSA solving
 | [0118-pascals-triangle](https://github.com/sahil0sharma/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sahil0sharma/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahil0sharma/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/sahil0sharma/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/sahil0sharma/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahil0sharma/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahil0sharma/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -107,6 +108,7 @@ DSA solving
 | [0001-two-sum](https://github.com/sahil0sharma/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sahil0sharma/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/sahil0sharma/DSA/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/sahil0sharma/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/sahil0sharma/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sahil0sharma/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/sahil0sharma/DSA/tree/master/0169-majority-element) |
@@ -357,4 +359,8 @@ DSA solving
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/sahil0sharma/DSA/tree/master/0214-shortest-palindrome) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sahil0sharma/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
