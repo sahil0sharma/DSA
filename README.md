@@ -13,6 +13,7 @@ DSA solving
 | [0268-missing-number](https://github.com/sahil0sharma/DSA/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sahil0sharma/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sahil0sharma/DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1512-number-of-good-pairs](https://github.com/sahil0sharma/DSA/tree/master/1512-number-of-good-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/sahil0sharma/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sahil0sharma/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Array
@@ -74,6 +75,7 @@ DSA solving
 | [1480-running-sum-of-1d-array](https://github.com/sahil0sharma/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sahil0sharma/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sahil0sharma/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1512-number-of-good-pairs](https://github.com/sahil0sharma/DSA/tree/master/1512-number-of-good-pairs) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sahil0sharma/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/sahil0sharma/DSA/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1672-richest-customer-wealth](https://github.com/sahil0sharma/DSA/tree/master/1672-richest-customer-wealth) |
@@ -133,6 +135,7 @@ DSA solving
 | [1207-unique-number-of-occurrences](https://github.com/sahil0sharma/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sahil0sharma/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/sahil0sharma/DSA/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1512-number-of-good-pairs](https://github.com/sahil0sharma/DSA/tree/master/1512-number-of-good-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sahil0sharma/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/sahil0sharma/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -274,6 +277,7 @@ DSA solving
 | [0169-majority-element](https://github.com/sahil0sharma/DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/sahil0sharma/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahil0sharma/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/sahil0sharma/DSA/tree/master/1512-number-of-good-pairs) |
 ## Greedy
 |  |
 | ------- |
