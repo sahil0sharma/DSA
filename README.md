@@ -49,6 +49,7 @@ DSA solving
 | [0283-move-zeroes](https://github.com/sahil0sharma/DSA/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/sahil0sharma/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sahil0sharma/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/sahil0sharma/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sahil0sharma/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/sahil0sharma/DSA/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/sahil0sharma/DSA/tree/master/0525-contiguous-array) |
@@ -121,6 +122,7 @@ DSA solving
 | [0217-contains-duplicate](https://github.com/sahil0sharma/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sahil0sharma/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sahil0sharma/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/sahil0sharma/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sahil0sharma/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/sahil0sharma/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahil0sharma/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -205,6 +207,7 @@ DSA solving
 | [0217-contains-duplicate](https://github.com/sahil0sharma/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sahil0sharma/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sahil0sharma/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/sahil0sharma/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sahil0sharma/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/sahil0sharma/DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahil0sharma/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -270,11 +273,13 @@ DSA solving
 | ------- |
 | [0053-maximum-subarray](https://github.com/sahil0sharma/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sahil0sharma/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/sahil0sharma/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sahil0sharma/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sahil0sharma/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/sahil0sharma/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/sahil0sharma/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahil0sharma/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/sahil0sharma/DSA/tree/master/1512-number-of-good-pairs) |
@@ -373,4 +378,16 @@ DSA solving
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sahil0sharma/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sahil0sharma/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sahil0sharma/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sahil0sharma/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
